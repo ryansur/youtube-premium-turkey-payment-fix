@@ -37,11 +37,6 @@ Propose un service d'obtention de carte virtuelle turque. Après le paiement, su
 * **Paiements :** Paiement sécurisé via **Carte de crédit (Credit Card)** ou **PayPal**.
 * **Garantie :** Résolution à 100 %. Remboursement intégral si la carte ne parvient pas à renouveler votre abonnement. Zéro risque. 👉 [Obtenir sur Payhip](https://payhip.com/b/DH6sh)
 
-📌 **Option 2 : Xiaohongshu (RED)**
-Un service payant d'assistance et de déblocage par un agent sur l'application sociale chinoise Xiaohongshu. Le processus est similaire au précédent, un agent vous aide manuellement à obtenir la carte. (Testé et approuvé par moi-même)
-
-* **Prérequis :** Nécessite le téléchargement de l'application « Xiaohongshu » au préalable, et le paiement via **WeChat Pay** ou **Alipay**.
-* **Garantie :** Remboursement intégral en cas d'échec. 👉 [Voir sur Xiaohongshu](http://xhslink.com/o/2MHHyv3X4oC)
 
 ---
 
